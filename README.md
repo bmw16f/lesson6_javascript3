@@ -4,19 +4,17 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 21 2018
 
 ### Student Name:  
-(First and Last Name)
+Baylee Whitley
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
-
+For this project, Cloud Nine was used to show how JavaScript can be used to create a Photo Gallery. This demonstrates one of the many reasons that JavaScript is popular.
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://bmw16f.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to update a DOM to show five images
+2. How to create a copy of a document fragment that was already created.
+3. What a BOM is and how it is used
